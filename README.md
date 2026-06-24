@@ -79,6 +79,16 @@ Entity Relationship Diagram
 
 ---
 
+## Key Achievements
+
+- Designed a 13-entity relational database schema
+- Normalized all relations to Third Normal Form (3NF)
+- Implemented SQL constraints, primary keys, and foreign keys
+- Developed a Python CRUD application using mysql-connector
+- Created ER diagrams and relationship modeling documentation
+- Validated database integrity with sample datasets
+
+
 ## Future Improvements
 
 * Web-based user interface
